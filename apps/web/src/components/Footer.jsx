@@ -11,7 +11,7 @@ const QUICK_LINKS = [
 
 const SOCIAL_LINKS = [
   { name: 'LinkedIn', icon: Linkedin, url: 'https://www.linkedin.com/in/mario-acosta-esparza-612963241/' },
-  { name: 'GitHub', icon: Github, url: 'https://github.com' },
+  { name: 'GitHub', icon: Github, url: 'https://github.com/MarioAEsparza' },
   { name: 'Email', icon: Mail, url: 'mailto:mario_esparza1@hotmail.com' },
 ];
 
