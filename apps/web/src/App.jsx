@@ -10,7 +10,7 @@ import ScrollToTop from './components/ScrollToTop.jsx';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/PortafolioMario">
       <ScrollToTop />
       <div className="min-h-screen bg-slate-950 text-white">
         <Header />
